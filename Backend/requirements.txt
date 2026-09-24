@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+tiktoken
+python-dotenv
+pydantic
+python-multipart
